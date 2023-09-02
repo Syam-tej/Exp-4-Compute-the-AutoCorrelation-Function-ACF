@@ -1,4 +1,4 @@
-# Exp-4-Compute-the-AutoCorrelation-Function-ACF
+# Exp-4-Compute-the-AutoCorrelation-Function-(ACF)
 ## AIM:
 Compute the AutoCorrelation Function (ACF) of the data for the first 35 lags to determine the type of model to fit to the data.
 ## ALGORITHM:
@@ -14,7 +14,7 @@ Store the results in an array
 Represent the result in graphical representation as given below.
 ## PROGRAM:
 ## DEVELOPED BY : P SYAM TEJ
-## REF NO : 21221240056
+## REF NO : 212221240056
 ```
 import matplotlib.pyplot as plt
 import numpy as np
